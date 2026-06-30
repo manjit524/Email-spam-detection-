@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Machine Learning Models
+# Uncomment the line below if you don't want to push the .pkl models to GitHub
+# *.pkl
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
